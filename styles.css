@@ -1,0 +1,142 @@
+body {
+    font-family: Arial;
+    font-size: 16px;
+    background-image:url("fon1.jpg") ;
+  }
+
+.halfpage-text {
+text-align: center;
+font-size: 18px;
+padding-right: 50px;
+}
+.halfpage-name {
+    text-align: center;
+    font-weight: 1000;
+    font-size: 40px;
+    font-family: "zagolovok";
+}
+ 
+#shapka {
+  height: 400px;
+  background-image: url();
+  background-repeat: repeat-x;
+  
+}
+
+#shapka .text {
+  text-align: right;
+  color:black;
+  font-size: 30px;
+  padding-right: 20px;
+  font-weight: bold;  
+
+}
+
+#shapka2{
+  height: 400px;
+  text-align: center;
+  color:black;
+  font-size: 80px;
+  padding-top: 10px;
+  font-weight: bold;  
+
+}
+
+#sf-menu {
+  text-align: left;
+  color: black;
+  border: 3px solid black;
+  border-radius: 20px;
+  padding: 10px 20px;
+  display: inline-block;
+  font-weight: bold;
+  
+}
+
+#sf-menu .current{
+  text-align: left;
+  color: gray;
+  padding-left: 20px;
+  padding-top: 20px;
+  font-weight: 1000;
+}
+
+#about {
+  text-align: right;
+  position: relative;
+}
+
+#cardescription {
+  margin-left: 10px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+  
+}
+
+#cardescription .text {
+  text-align: left;
+  text-indent: 20px;
+}
+
+#cardescription .name {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+}
+#cardescription .photo {
+  border-radius: 5px;
+  border: 2px #ccc solid;
+  box-shadow: 0 0 10px #ffffff;
+  margin-right: 10px;
+  margin-top: 100px;
+
+}
+
+#catalog {
+  background-image: url();
+  background-repeat:repeat;
+}
+.halfpage-name2 {
+  text-align: left;
+  font-weight: 1000;
+  font-size: 30px;
+  font-family: "zagolovok";
+  padding-top: 300px;
+}
+
+#catalog .carname {
+  text-align: center;
+  width: 80%;
+  padding-left: 50px;
+  padding-bottom: 30px;
+  font-size: 18px;
+  font-weight: 800;
+  color:whitesmoke;
+}
+
+#catalog .img {
+  padding-top: 50px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #444;
+}
+
+#footer2 {
+  height: 110px;
+  background-repeat:repeat;
+}
+
+#footer2 .text {
+  text-align: right;
+  font-size: 20px;
+  padding-right: 40px;
+  padding-top: 120px;
+  color: white;
+}
+
+
+#footer2 .address {
+  padding-left: 40px;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+}
